@@ -1,0 +1,9 @@
+{
+  "firebase": "dotoquiz-app",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
